@@ -1,0 +1,12 @@
+main{
+	height: 100%;
+	width: 100%;
+	background-image: url(https://cdn.oboi7.com/a62120ba5487e2b86a3a17ba172e60b404f42d90/pejzazhi-priroda-solnechnyj-svet-ozera-vodopady.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
+nav ul li svg{
+	max-width: 80px;
+	max-height: 30px;
+}
